@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iqbal-it
+- 👋 Hi, I’m @iqbal
 - 👀 I’m interested in open source web application development
 - 🌱 I’m currently learning PHP Framework (Codeigniter 3 and Laravel 8)
 - 💞️ I’m looking to collaborate on CRUD and easy learning of PHP Framework
